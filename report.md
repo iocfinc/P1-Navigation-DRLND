@@ -26,7 +26,7 @@ As I mentioned before, this project mostly borrows from the DQN exercises. The i
 
 The environment was considered solved at the 349th episode where the average score reached exactly 13. Continuing with the rest of the episodes, the agent was able to get to a maximum score of 26 and the highest average score was 16.5.
 
-<p align='center'><img src="https://github.com/iocfinc/P1-Navigation-DRLND/images/Rewards_Plot.png" alt="Rewards Plot"></p>
+<p align='center'><img src="https://github.com/iocfinc/P1-Navigation-DRLND/blob/master/images/Rewards_Plot.png" alt="Rewards Plot"></p>
 
 ## Future Plans
 
