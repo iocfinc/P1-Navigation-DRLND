@@ -53,3 +53,7 @@ You need only select the environment that matches your operating system:
 Then, place the file in the `p1_navigation/` folder in the DRLND GitHub repository, and unzip (or decompress) the file.  Next, open `Navigation_Pixels.ipynb` and follow the instructions to learn how to use the Python API to control the agent.
 
 (_For AWS_) If you'd like to train the agent on AWS, you must follow the instructions to [set up X Server](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above.
+
+### Repository Guide
+
+The project notebook is **`Navigation-P1.ipynb`** while the `Navigation.ipynb` is the notebook from the original Udacity Repository. There is also a `report.md` file for the findings when making the project. Most of the steps done during making the project would be covered in the **`report.md`** fileThe saved checkpoint is also uploaded to the repository as part of the requirements for the project submission. **`checkpoint-13.pth`** should be the savepoint where the environment was saved.
